@@ -1,2 +1,2 @@
 # Fake-News-Detection
-A project which detects either the news is fake or not.
+This project aims to detect fake news articles using a machine learning approach. Utilizing a Logistic Regression model, we analyze textual data to classify news as real or fake. 
