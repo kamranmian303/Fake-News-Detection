@@ -1,5 +1,7 @@
 # Fake-News-Detection
-This repository rep
+This repository represents "Fake New Detection".
+
+With the help of this project we can detect either the news is real or fake.
 # Project Overview
 This project aims to detect fake news articles using a machine learning approach. 
 
